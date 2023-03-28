@@ -18,11 +18,7 @@ Step 3: Sign in to GitHub
 
 After installation, launch GitHub and sign in to your account. If you don't have an account, you can create one by clicking on the "Sign up for GitHub" button.
 
-### Download this repository
+### Follow my Youtube Tutorial here:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
