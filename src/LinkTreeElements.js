@@ -1,10 +1,13 @@
 import styled from "styled-components";
 
 export const LinkTreePageContainer = styled.div`
-    height: 100dvh;
+    height: 100vh;
     width: 100vw;
     background-color: whitesmoke;
     overflow:hidden;
+    @media (max-width: 520px) {
+        height:100dvh
+    }
 `
 
 export const BackgroundContainer = styled.div`
@@ -50,7 +53,7 @@ export const VideoBg = styled.video`
 export const ContentContainer = styled.div`
     position: absolute;
     width: 700px;
-    height: 100%;
+    height: 90%;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -64,7 +67,7 @@ export const ContentContainer = styled.div`
 `
 
 export const ProfileImage = styled.img`
-    width: 300px;
+    width: 250px;
     border-radius: 100%; 
     margin-bottom: 30px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -76,7 +79,7 @@ export const ProfileImage = styled.img`
 
 export const ProfileName = styled.p`
     font-weight:1000;
-    font-size: 42px;
+    font-size: 56px;
     color: white;
     margin-bottom: 10px;
 `
