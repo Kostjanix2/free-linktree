@@ -8,7 +8,7 @@ GitHub is a popular platform used by developers to host, share and collaborate o
 
 Step 1: Download the GitHub installer
 
-Visit the GitHub website at https://github.com/ and click on the "Download for Windows" or "Download for Mac" button depending on your operating system.
+Visit the GitHub website at https://desktop.github.com/ and click on the "Download for Windows" or "Download for Mac" button depending on your operating system.
 
 Step 2: Install GitHub
 
