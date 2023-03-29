@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const LinkTreePageContainer = styled.div`
-    height: 100vh;
+    height: 100dvh;
     width: 100vw;
     background-color: whitesmoke;
     overflow:hidden;
@@ -56,6 +56,11 @@ export const ContentContainer = styled.div`
     justify-content: center;
     align-items: center;
     z-index: 3;
+    @media (min-width: 320px) {
+        height:85%;
+        justify-content: space-evenly;
+        width:90%
+    }
 `
 
 export const ProfileImage = styled.img`
@@ -63,6 +68,9 @@ export const ProfileImage = styled.img`
     border-radius: 100%; 
     margin-bottom: 30px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    @media (min-width: 320px) {
+        width:50%
+    }
 `
 
 export const ProfileName = styled.p`
@@ -73,9 +81,15 @@ export const ProfileName = styled.p`
 `
 
 export const ProfileDescription = styled.p`
+    text-align:center;
     font-size: 32px;
     color: white;
     margin-bottom:30px;
+    @media (min-width: 320px) {
+        font-size:26px;
+        margin-bottom:15px;
+    }
+
 `
 
 export const LinkContainer = styled.a`
@@ -96,6 +110,11 @@ export const LinkContainer = styled.a`
     &:hover{
         transform:scale(1.1)
     }
+    @media (min-width: 320px) {
+        width:100%;
+        height:40px;
+        margin: 10px;
+    }
 `
 
 export const LinkIcon = styled.img`
@@ -103,10 +122,16 @@ export const LinkIcon = styled.img`
     width: 50px;
     margin-left:20px;
     left:0;
+    @media (min-width: 320px) {
+        width:30px;
+    }
 `
 
 export const LinkText = styled.p`
     font-size: 32px;
     text-decoration: none;
     color: black;
+    @media (min-width: 320px) {
+        font-size: 28px;
+    }
 `
