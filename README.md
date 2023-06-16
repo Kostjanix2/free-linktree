@@ -18,7 +18,4 @@ Step 3: Sign in to GitHub
 
 After installation, launch GitHub and sign in to your account. If you don't have an account, you can create one by clicking on the "Sign up for GitHub" button.
 
-### Follow my Youtube Tutorial here:
-
-
 
