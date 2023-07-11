@@ -1,6 +1,6 @@
 export const profile = {
     name: "Kostja AF",
-    description: "Streamer, Gamer, Spider, Content Creator",
+    description: "Programmer, Streamer, Tech Enthusiast",
     textcolor: "#FBF5F3"
 }
 
