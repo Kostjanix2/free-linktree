@@ -17,3 +17,4 @@ You can edit the:
         - textcolor => Link Text Color
 
 Example Page: https://linktreekaf.netlify.app/
+Also works on Mobile
