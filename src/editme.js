@@ -8,21 +8,21 @@ export const linkList = [
     {
         text: "Twitch",
         iconSrc: require("./Icons/Twitch.png"),
-        link: "https://www.twitch.tv/kostjaaf",
+        link: "https://www.twitch.tv/",
         containercolor: "#FBF5F3",
         textcolor: "#000022"
     },
     {
         text: "Youtube",
         iconSrc: require("./Icons/Youtube.png"),
-        link: "https://www.youtube.com/channel/UCyZ6v5ISKn0Xyv-Pz9I_y5Q",
+        link: "https://www.youtube.com/",
         containercolor: "#FBF5F3",
         textcolor: "#000022"
     },
     {
         text: "TikTok",
         iconSrc: require("./Icons/TikTok.png"),
-        link: "https://www.tiktok.com/@kostja.af",
+        link: "https://www.tiktok.com/",
         containercolor: "#FBF5F3",
         textcolor: "#000022"
     },
