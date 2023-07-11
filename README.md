@@ -9,9 +9,10 @@ You can edit the:
           - Name => Display Name Title
           - Description => Descripton (Who would thought)
           - textcolor => Color of Name and Description
-      - Text => Link Text
-      - IconSrc => path to your Icon
-      - link => your Link
-      - containercolor => Color of the link Box (Container)
-      - textcolor => Link Text Color
+      - Link List:
+        - Text => Link Text
+        - IconSrc => path to your Icon
+        - link => your Link
+        - containercolor => Color of the link Box (Container)
+        - textcolor => Link Text Color
 
